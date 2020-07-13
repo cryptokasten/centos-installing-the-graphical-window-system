@@ -10,7 +10,7 @@
 ** Installing Desktop Environment
 
 #+BEGIN_SRC sh
-sudo yum groupinfo "Xfce"
+sudo yum groupinstall "Xfce"
 #+END_SRC
 
 ** Start graphics
